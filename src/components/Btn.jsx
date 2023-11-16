@@ -11,9 +11,9 @@ function Btn() {
     <Link to="/Checklist">
     Checklist Page
     </Link>*/}
-    <Link to="/referEarn">
+    {/* <Link to="/referEarn">
     Refer&Earn
-    </Link>  
+    </Link>   */}
     {/* <Link to="/policy">
     Privacy Policy for GoCollege
     </Link>
@@ -23,12 +23,15 @@ function Btn() {
       {/* <Link to="/ListOfFakeUniversities">
     ListOfFakeUniversities
     </Link> */} 
-    <Link to="/job-hire">
+    {/* <Link to="/job-hire">
     GoC Hire Support
-    </Link>
+    </Link> */}
      
-    <Link to="/Online-Bca">
+    {/* <Link to="/Online-Bca">
     BCA
+    </Link>  */}
+    <Link to="/Online-Bca-General">
+    BCA General
     </Link> 
      </div>
   )

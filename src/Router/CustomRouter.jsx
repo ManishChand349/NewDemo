@@ -9,6 +9,7 @@ import {ListOfFakeUniversitie} from "../components/ListOfFakeUniversitie"
 import {OnlineBca} from "../components/OnlineBca"
 import {Register} from "../pages/Register"
 import { ThankYou } from "../pages/ThankYou";
+import { OnlineBcaGeneral } from "../components/OnlineBcaGeneral";
 
 function CustomRouter() {
      return(
@@ -23,6 +24,7 @@ function CustomRouter() {
                <Route path="/Online-Bca" element={<OnlineBca/>}/>
                <Route path="/register" element={<Register/>}/>
                <Route path="/thankyou" element={<ThankYou/>}/>
+               <Route path="/Online-Bca-General" element={<OnlineBcaGeneral/>}/>
           </Routes>
      )
      
