@@ -4,6 +4,17 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import AmityUN from"../assets/Carousel-img/AmityUN.webp"
 import AmritaUN from"../assets/Carousel-img/AmritaUN.webp"
+import ChandigarhUN from"../assets/Carousel-img/ChandigarhUN.webp"
+import DattaUN from"../assets/Carousel-img/DattaUN.webp"
+import GlaUN from"../assets/Carousel-img/GlaUN.webp"
+import LovelyUN from"../assets/Carousel-img/LovelyUN.webp"
+import MaharishiUN from"../assets/Carousel-img/MaharishiUN.webp"
+import ManavUN from"../assets/Carousel-img/ManavUN.webp"
+import ManipalUN from"../assets/Carousel-img/ManipalUN.webp"
+import SastraUN from"../assets/Carousel-img/SastraUN.webp"
+import UpesUN from"../assets/Carousel-img/UpesUN.webp"
+import UttaranchalUN from"../assets/Carousel-img/UttaranchalUN.webp"
+import VignansUN from"../assets/Carousel-img/VignansUN.webp"
 
 function Carousel() {
   const settings = {
@@ -48,26 +59,74 @@ const data = [
     price: `14,500/semesters`,
   },
   {
-    name: `John Morgan`,
+    name: `AMRITA UNIVERSITY ONLINE`,
     img: `${AmritaUN}`,
     review: `Rating: 4.4/5`,
     price: `14,500/semesters`,
   },
   {
-    name: `John Morgan`,
-    img: `/students/John_Morgan.jpg`,
+    name: `CHANDIGARH UNIVERSITY ONLINE`,
+    img: `${ChandigarhUN}`,
     review: `Rating: 4.4/5`,
     price: `14,500/semesters`,
   },
   {
-    name: `John Morgan`,
-    img: `/students/John_Morgan.jpg`,
+    name: `AMRITA UNIVERSITY ONLINE`,
+    img: `${DattaUN}`,
     review: `Rating: 4.4/5`,
     price: `14,500/semesters`,
   },
   {
-    name: `John Morgan`,
-    img: `/students/John_Morgan.jpg`,
+    name: `GLA UNIVERSITY ONLINE`,
+    img: `${GlaUN}`,
+    review: `Rating: 4.4/5`,
+    price: `14,500/semesters`,
+  },
+  {
+    name: `LPU ONLINE`,
+    img: `${LovelyUN}`,
+    review: `Rating: 4.4/5`,
+    price: `14,500/semesters`,
+  },
+  {
+    name: `AMRITA UNIVERSITY ONLINE`,
+    img: `${MaharishiUN}`,
+    review: `Rating: 4.4/5`,
+    price: `14,500/semesters`,
+  },
+  {
+    name: `MANAV RACHNA UNIVERSITY ONLINE`,
+    img: `${ManavUN}`,
+    review: `Rating: 4.4/5`,
+    price: `14,500/semesters`,
+  },
+  {
+    name: `MANIPAL UNIVERSITY ONLINE`,
+    img: `${ManipalUN}`,
+    review: `Rating: 4.4/5`,
+    price: `14,500/semesters`,
+  },
+  {
+    name: `SASTRA UNIVERSITY ONLINE`,
+    img: `${SastraUN}`,
+    review: `Rating: 4.4/5`,
+    price: `14,500/semesters`,
+  },
+  {
+    name: `UPES ONLINE`,
+    img: `${UpesUN}`,
+    review: `Rating: 4.4/5`,
+    price: `14,500/semesters`,
+  },
+  {
+    name: `UTTARANCHAL UNIVERSITY ONLINE`,
+    img: `${UttaranchalUN}`,
+    review: `Rating: 4.4/5`,
+    price: `14,500/semesters`,
+  },
+  {
+    name: `VIGNAN UNIVERSITY`,
+    img: `${VignansUN}`,
     review: `Rating: 4.4/5`,
     price: `14,500/semesters`,
   },
