@@ -40,7 +40,7 @@ function Carousel() {
 const data = [
   {
     name: `AMITY UNIVERSITY ONLINE`,
-    img: `/src/assets/Carousel-img/amity-online-university-logo.webp`,
+    img: `../assets/Carousel-img/amity-online-university-logo.webp`,
     review: `Rating: 4.4/5`,
     price: `14,500/semesters`,
   },
