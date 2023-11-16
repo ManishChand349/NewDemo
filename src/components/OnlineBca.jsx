@@ -1802,219 +1802,8 @@ const Main = styled.div`
 
 
    // for S mobile
-   @media (max-width : 320px) {
-     .bca-img {
-    width: 286px;
-    border-radius: 7px;
-}
-.main-heading {
-    font-size: 1.2rem;
-    color: #212529;
-    text-align: center;
-  }
-    .img-div {
-      flex-direction: column;
-      padding-right: 1px;
-      width: 100%;
-    }
-    .row {
-    max-width: 95%;
-    margin: auto;
-    padding-left: 0;
-}
- .para-updated {
-    text-align: center;
-}
-.para-div {
-  /* width: 100%; */
-    padding-top: 35px;
-    margin-left: 0px;
-}
-.main-para {
-  text-align: center;
-    color: #6D7073;
-    font-size:0.7rem;
-}
-.top-div{
-  top: -37px;
-  left: 2px;
-}
-.watch-video {
-    margin-right: 65px;
-    font-size: 0.7rem;
-  }
-  .Listen-heading{
-  font-size: 0.7rem;
-
-}
-.inner-div{
-  padding: 0px;
-  border: 0.1px thin !important;
-}
-.inner-div strong{
-  font-size: 0.5rem;
-}
-.inner-div a{
-  font-size: 0.9rem;
-}
-.inner-div p{
-  font-size: 0.6rem;
-}
-.center{
-  font-size: 9px;
-}
-.part-time-para{
-  padding: 0 5px;
-  font-size: 2px;
- }
- .row-2{
-  width: 100%;
-  padding: 2px 4px;
- }
- .UC-div p {
-    text-align: center;
-    font-size: 0.7rem;
-}
-.second-heading {
-    font-size: 1rem;
-    color: #212529;
-}
-.para {
-    margin-bottom: 18px;
-    color: #3C3F43;
-    font-size: 0.7rem;
-
-}
-.para-2 {
-  font-size: 0.7rem;
   
-}
-.para-div-2 p{
-  font-size: 0.7rem;
-}
-.para-div-3 p{
-  font-size: 0.7rem
-}
-.para-4{
-  font-size: 0.7rem
-}
-.Book-para{
-  font-size: 0.5rem !important;
-  
-}
-.part-time-para{
-  font-size: 0.4rem !important;
-  padding: 0;
-}
-  }
-   @media (max-width : 375px) {
-     .bca-img {
-    width: 338px;
-    border-radius: 7px;
-}
-.main-heading {
-    font-size: 1.2rem;
-    color: #212529;
-    text-align: center;
-  }
-    .img-div {
-      flex-direction: column;
-      padding-right: 1px;
-      width: 100%;
-    }
-    .row {
-    max-width: 95%;
-    margin: auto;
-    padding-left: 0;
-}
- .para-updated {
-    text-align: center;
-}
-.para-div {
-  /* width: 100%; */
-    padding-top: 35px;
-    margin-left: 0px;
-}
-.main-para {
-  text-align: center;
-    color: #6D7073;
-    font-size:0.7rem;
-}
-.top-div{
-  top: -37px;
-  left: 2px;
-}
-.watch-video {
-    margin-right: 65px;
-    font-size: 0.7rem;
-  }
-  .Listen-heading{
-  font-size: 0.7rem;
-
-}
-.inner-div{
-  padding: 0px;
-  border: 0.1px thin !important;
-}
-.inner-div strong{
-  font-size: 0.5rem;
-  text-align: center;
-}
-.inner-div a{
-  font-size: 0.9rem;
-}
-.inner-div p{
-  font-size: 0.5rem;
-  text-align: center;
-}
-.center{
-  font-size: 9px;
-}
-.part-time-para{
-  padding: 0 5px;
-  font-size: 2px;
- }
- .row-2{
-  width: 100%;
-  padding: 2px 4px;
- }
- .UC-div p {
-    text-align: center;
-    font-size: 0.7rem;
-}
-.second-heading {
-    font-size: 1rem;
-    color: #212529;
-}
-.para {
-    margin-bottom: 18px;
-    color: #3C3F43;
-    font-size: 0.7rem;
-
-}
-.para-2 {
-  font-size: 0.7rem;
-  
-}
-.para-div-2 p{
-  font-size: 0.7rem;
-}
-.para-div-3 p{
-  font-size: 0.7rem
-}
-.para-4{
-  font-size: 0.7rem
-}
-.Book-para{
-  font-size: 0.6rem !important;
-  
-}
-.part-time-para{
-  /* font-size: 0.4rem !important; */
-  padding: 0;
-}
-  }
-   @media (max-width : 425px) {
+   @media (max-width : 1024px) {
      .bca-img {
     width: 387px;
     border-radius: 7px;
@@ -2025,12 +1814,12 @@ const Main = styled.div`
     text-align: center;
   }
     .img-div {
-      flex-direction: column;
+      /* flex-direction: column; */
       padding-right: 1px;
       width: 100%;
     }
     .row {
-    max-width: 95%;
+    max-width: 75%;
     margin: auto;
     padding-left: 0;
 }
@@ -2046,10 +1835,11 @@ const Main = styled.div`
   text-align: center;
     color: #6D7073;
     font-size:0.9rem;
+    margin-left: 10px;
 }
 .top-div{
   top: -37px;
-  left: 9px;
+  left: 26px;
 }
 .watch-video {
   margin-left: 30px;
@@ -2067,16 +1857,24 @@ const Main = styled.div`
 .inner-div strong{
   font-size: 0.5rem;
   text-align: center;
+  margin-left: 5px;
+
 }
 .inner-div a{
   font-size: 0.9rem;
+  margin-left: 5px;
 }
 .inner-div p{
-  font-size: 0.5rem;
-  text-align: center;
+  font-size: 0.8rem;
+  text-align: left;
+  margin-left: 5px;
+  padding: 5px;
 }
 .center{
   font-size: 9px;
+}
+.media-div{
+  margin-top: 100px;
 }
 .part-time-para{
   padding: 0 5px;
@@ -2097,24 +1895,24 @@ const Main = styled.div`
 .para {
     margin-bottom: 18px;
     color: #3C3F43;
-    font-size: 0.7rem;
+    font-size: 0.9rem;
 
 }
 .para-2 {
-  font-size: 0.7rem;
+  font-size: 0.9rem;
   
 }
 .para-div-2 p{
-  font-size: 0.7rem;
+  font-size: 0.9rem;
 }
 .para-div-3 p{
-  font-size: 0.7rem
+  font-size: 0.9rem
 }
 .para-4{
   font-size: 0.7rem
 }
 .Book-para{
-  font-size: 0.6rem !important;
+  font-size: 0.8rem !important;
   
 }
 .part-time-para{
@@ -2235,8 +2033,12 @@ const Main = styled.div`
   /* font-size: 0.4rem !important; */
   padding: 0;
 }
+.doubts-clear{
+  max-width: 95%;
+  margin: auto;
+}
   }
-   @media (max-width : 1024px) {
+  @media (max-width : 425px) {
      .bca-img {
     width: 387px;
     border-radius: 7px;
@@ -2247,12 +2049,12 @@ const Main = styled.div`
     text-align: center;
   }
     .img-div {
-      /* flex-direction: column; */
+      flex-direction: column;
       padding-right: 1px;
       width: 100%;
     }
     .row {
-    max-width: 75%;
+    max-width: 95%;
     margin: auto;
     padding-left: 0;
 }
@@ -2268,11 +2070,10 @@ const Main = styled.div`
   text-align: center;
     color: #6D7073;
     font-size:0.9rem;
-    margin-left: 10px;
 }
 .top-div{
   top: -37px;
-  left: 26px;
+  left: 9px;
 }
 .watch-video {
   margin-left: 30px;
@@ -2290,24 +2091,16 @@ const Main = styled.div`
 .inner-div strong{
   font-size: 0.5rem;
   text-align: center;
-  margin-left: 5px;
-
 }
 .inner-div a{
   font-size: 0.9rem;
-  margin-left: 5px;
 }
 .inner-div p{
-  font-size: 0.8rem;
-  text-align: left;
-  margin-left: 5px;
-  padding: 5px;
+  font-size: 0.5rem;
+  text-align: center;
 }
 .center{
   font-size: 9px;
-}
-.media-div{
-  margin-top: 100px;
 }
 .part-time-para{
   padding: 0 5px;
@@ -2328,29 +2121,254 @@ const Main = styled.div`
 .para {
     margin-bottom: 18px;
     color: #3C3F43;
-    font-size: 0.9rem;
+    font-size: 0.7rem;
 
 }
 .para-2 {
-  font-size: 0.9rem;
+  font-size: 0.7rem;
   
 }
 .para-div-2 p{
-  font-size: 0.9rem;
+  font-size: 0.7rem;
 }
 .para-div-3 p{
-  font-size: 0.9rem
+  font-size: 0.7rem
 }
 .para-4{
   font-size: 0.7rem
 }
 .Book-para{
-  font-size: 0.8rem !important;
+  font-size: 0.6rem !important;
   
 }
 .part-time-para{
   /* font-size: 0.4rem !important; */
   padding: 0;
 }
+.doubts-clear{
+  max-width: 95%;
+  margin: auto;
+}
   }
+  @media (max-width : 375px) {
+     .bca-img {
+    width: 338px;
+    border-radius: 7px;
+}
+.main-heading {
+    font-size: 1.2rem;
+    color: #212529;
+    text-align: center;
+  }
+    .img-div {
+      flex-direction: column;
+      padding-right: 1px;
+      width: 100%;
+    }
+    .row {
+    max-width: 95%;
+    margin: auto;
+    padding-left: 0;
+}
+ .para-updated {
+    text-align: center;
+}
+.para-div {
+  /* width: 100%; */
+    padding-top: 35px;
+    margin-left: 0px;
+}
+.main-para {
+  text-align: center;
+    color: #6D7073;
+    font-size:0.7rem;
+}
+.top-div{
+  top: -37px;
+  left: 2px;
+}
+.watch-video {
+    margin-right: 65px;
+    font-size: 0.7rem;
+  }
+  .Listen-heading{
+  font-size: 0.7rem;
+
+}
+.inner-div{
+  padding: 0px;
+  border: 0.1px thin !important;
+}
+.inner-div strong{
+  font-size: 0.5rem;
+  text-align: center;
+}
+.inner-div a{
+  font-size: 0.9rem;
+}
+.inner-div p{
+  font-size: 0.5rem;
+  text-align: center;
+}
+.center{
+  font-size: 9px;
+}
+.part-time-para{
+  padding: 0 5px;
+  font-size: 2px;
+ }
+ .row-2{
+  width: 100%;
+  padding: 2px 4px;
+ }
+ .UC-div p {
+    text-align: center;
+    font-size: 0.7rem;
+}
+.second-heading {
+    font-size: 1rem;
+    color: #212529;
+}
+.para {
+    margin-bottom: 18px;
+    color: #3C3F43;
+    font-size: 0.7rem;
+
+}
+.para-2 {
+  font-size: 0.7rem;
+  
+}
+.para-div-2 p{
+  font-size: 0.7rem;
+}
+.para-div-3 p{
+  font-size: 0.7rem
+}
+.para-4{
+  font-size: 0.7rem
+}
+.Book-para{
+  font-size: 0.6rem !important;
+  
+}
+.part-time-para{
+  /* font-size: 0.4rem !important; */
+  padding: 0;
+}
+.doubts-clear{
+  max-width: 95%;
+  margin: auto;
+}
+  }
+  @media (max-width : 320px) {
+     .bca-img {
+    width: 286px;
+    border-radius: 7px;
+}
+.main-heading {
+    font-size: 1.2rem;
+    color: #212529;
+    text-align: center;
+  }
+    .img-div {
+      flex-direction: column;
+      padding-right: 1px;
+      width: 100%;
+    }
+    .row {
+    max-width: 95%;
+    margin: auto;
+    padding-left: 0;
+}
+ .para-updated {
+    text-align: center;
+}
+.para-div {
+  /* width: 100%; */
+    padding-top: 35px;
+    margin-left: 0px;
+}
+.main-para {
+  text-align: center;
+    color: #6D7073;
+    font-size:0.7rem;
+}
+.top-div{
+  top: -37px;
+  left: 2px;
+}
+.watch-video {
+    margin-right: 65px;
+    font-size: 0.7rem;
+  }
+  .Listen-heading{
+  font-size: 0.7rem;
+
+}
+.inner-div{
+  padding: 0px;
+  border: 0.1px thin !important;
+}
+.inner-div strong{
+  font-size: 0.5rem;
+}
+.inner-div a{
+  font-size: 0.9rem;
+}
+.inner-div p{
+  font-size: 0.6rem;
+}
+.center{
+  font-size: 9px;
+}
+.part-time-para{
+  padding: 0 5px;
+  font-size: 2px;
+ }
+ .row-2{
+  width: 100%;
+  padding: 2px 4px;
+ }
+ .UC-div p {
+    text-align: center;
+    font-size: 0.7rem;
+}
+.second-heading {
+    font-size: 1rem;
+    color: #212529;
+}
+.para {
+    margin-bottom: 18px;
+    color: #3C3F43;
+    font-size: 0.7rem;
+
+}
+.para-2 {
+  font-size: 0.7rem;
+  
+}
+.para-div-2 p{
+  font-size: 0.7rem;
+}
+.para-div-3 p{
+  font-size: 0.7rem
+}
+.para-4{
+  font-size: 0.7rem
+}
+.Book-para{
+  font-size: 0.5rem !important;
+  
+}
+.part-time-para{
+  font-size: 0.4rem !important;
+  padding: 0;
+}
+.doubts-clear{
+  max-width: 95%;
+  margin: auto;
+}
+  }
+  
 `;

@@ -157,6 +157,7 @@ const Main = styled.div`
      border-radius: 8px;
      border: none !important;
      padding: 20px 25px;
+     box-shadow: 1px 1px 5px rgb(255, 205, 255);
 }
 .box-2{
      display: flex;
