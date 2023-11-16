@@ -71,7 +71,7 @@ const data = [
     price: `14,500/semesters`,
   },
   {
-    name: `AMRITA UNIVERSITY ONLINE`,
+    name: `DMIHER UNIVERSITY ONLINE`,
     img: `${DattaUN}`,
     review: `Rating: 4.4/5`,
     price: `14,500/semesters`,
@@ -89,7 +89,7 @@ const data = [
     price: `14,500/semesters`,
   },
   {
-    name: `AMRITA UNIVERSITY ONLINE`,
+    name: `MMU ONLINE`,
     img: `${MaharishiUN}`,
     review: `Rating: 4.4/5`,
     price: `14,500/semesters`,
