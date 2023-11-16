@@ -191,10 +191,172 @@ export const OnlineBcaGeneral = () => {
               </p>
             </div>
               </div>
-            
-             
-             
+              <div className="inner-div">
+
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+            Problem Solving and Programming
+              </p>
             </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+             Accoutancy 1
+              </p>
+            </div>
+
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+            Communication Skills
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+            Computer Organization and Assembly Language Programming
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+           C language Programming Lab
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+          Discrete Mathematics
+              </p>
+            </div>
+              </div>
+              <div className="inner-div">
+                <strong>Semester 3</strong>
+              </div>
+              <div className="inner-div">
+                <strong>Semester 4</strong>
+              </div>
+              <div className="inner-div">
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+          Systems Analytics and Design
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+         Data and Files Structures
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+         C++ Programming Lab
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+         Data and File Structure Lab
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+         DBMS Lab
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+         Programming in C++
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+         Introduction to DBMS
+              </p>
+            </div>
+              </div>
+              <div className="inner-div">
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+         Fundamentals of Computer Networks
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+        Internet Concepts and Web Design
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+         Java Programming 
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+        Algorithm Design Lab
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+       Statistical Techniques Lab
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+        Object-oriented Technologies and Java <br /> Programming
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+         Introduction to Algorithm Design
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+         Statistical Techniques
+              </p>
+            </div>
+              </div>
+              <div className="inner-div">
+                <strong>Semester 5</strong>
+              </div>
+              <div className="inner-div">
+                <strong>Semester 6</strong>
+              </div>
+              <div className="inner-div">
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+        Network Programming and Administration
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+        Network Programming and Administration
+              </p>
+            </div>
+              </div>
+            </div>
+
+
+
+
+
             <h1 className="second-heading">
               Top Specializations in Online BCA
             </h1>
