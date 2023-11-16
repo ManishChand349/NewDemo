@@ -18,7 +18,7 @@ import VignansUN from"../assets/Carousel-img/VignansUN.webp"
 
 function Carousel() {
   const settings = {
-    dots: true,
+    dots: false,
     infinite: true,
     speed: 500,
     slidesToShow: 3,
@@ -203,6 +203,28 @@ const Main = styled.div`
      color: #0B5ED7;
      font-size: 0.9rem;
      font-weight: 900;
+}
+
+@media (max-width: 320px){
+  .container{
+     max-width: 95%;
+     margin: auto;
+}
+.inner-div{
+     max-width: 90%;
+     margin: auto;
+     display: flex;
+     justify-content: center;
+     background-color: #fff;
+     height: 250px;
+     width: 200px !important;
+     color: #000;
+     border-radius: 8px;
+     border: none !important;
+     padding: 20px 25px;
+     box-shadow: 1px 1px 5px rgb(255, 205, 255);
+}
+
 }
 
 `

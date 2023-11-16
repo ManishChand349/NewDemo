@@ -1785,8 +1785,8 @@ const Main = styled.div`
    .Choose-University-heading{
     text-align: center;
     color: #2f80ed;
-    margin-top: 20px;
-    padding-top: 10px;
+    margin-top: 25px;
+    padding-top: 20px;
    }
    .Carousel-div{
     max-width: 70%;
