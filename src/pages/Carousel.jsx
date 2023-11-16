@@ -2,6 +2,7 @@ import Slider from "react-slick";
 import styled from "styled-components";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import AmityUN from"../assets/Carousel-img/AmityUN.webp"
 
 function Carousel() {
   const settings = {
@@ -40,7 +41,7 @@ function Carousel() {
 const data = [
   {
     name: `AMITY UNIVERSITY ONLINE`,
-    img: `../assets/Carousel-img/amity-online-university-logo.webp`,
+    img: `${AmityUN}`,
     review: `Rating: 4.4/5`,
     price: `14,500/semesters`,
   },
