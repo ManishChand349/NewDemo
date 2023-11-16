@@ -1789,8 +1789,6 @@ const Main = styled.div`
     max-width: 70%;
     margin: auto;
    }
-   
-
 .doubts-clear{
   max-width: 60%;
   margin: auto;
