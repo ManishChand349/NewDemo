@@ -9,6 +9,7 @@ import CVCourseBcaSalaryGraph from "../assets/OnlineBca-img/CVCourseSalaryGraph.
 import { BsFillCheckSquareFill } from "react-icons/bs";
 import { AiFillCaretDown } from "react-icons/ai";
 import AccordionMenu from "../pages/AccordionMenu";
+import Carousel from "../pages/Carousel";
 
 
 export const OnlineBca = () => {
@@ -1491,8 +1492,10 @@ export const OnlineBca = () => {
               Choose Your University Wisely
             </h1>
           </div>
-          <div>
-            <div>div</div>
+          <div className="Carousel-div">
+            <div >
+              <Carousel/>
+            </div>
           </div>
         </div>
         <div className="doubts-clear">
@@ -1776,9 +1779,15 @@ const Main = styled.div`
    }
    .University-choose{
     background-color: #F0F3FF;
+    padding-bottom: 20px;
+
    }
    .Choose-University-heading{
     text-align: center;
+   }
+   .Carousel-div{
+    max-width: 70%;
+    margin: auto;
    }
    
 
