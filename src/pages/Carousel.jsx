@@ -39,7 +39,7 @@ function Carousel() {
 
 const data = [
   {
-    name: `John Morgan`,
+    name: `AMITY UNIVERSITY ONLINE`,
     img: `/src/assets/Carousel-img/amity-online-university-logo.webp`,
     review: `Rating: 4.4/5`,
     price: `14,500/semesters`,
@@ -91,8 +91,4 @@ const Main = styled.div`
      border: none;
      padding: 20px 30px;
 }
-.img{
- 
-}
-
 `
