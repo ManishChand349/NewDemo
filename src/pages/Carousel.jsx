@@ -193,16 +193,15 @@ const Main = styled.div`
      height: 0.01rem;
      width: 100%;
      background-color: #495057;
-
 }
 .img{
      margin: auto;
      margin-top: 30px;
 }
 .price{
-     color: #0B5ED7;
+     color: #0B5ED7 !important;
      font-size: 0.9rem;
-     font-weight: 900;
+     font-weight: 900 !important;
 }
 
 @media (max-width: 320px){

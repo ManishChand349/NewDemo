@@ -20,92 +20,38 @@ const AccordionMenu = () => {
      <Main>
 
     <div className="accordion-menu">
-      <h1 className="title">Let's clear up some doubts about Online BCA</h1>
+      <h1 className="title">Let's clear up some doubts about Online BCA in General </h1>
       <div className="accordion-items">
         <AccordionItem
-          title="Which universities are best for online BCA degree course In India?"
-          content="Here are some of the top universities for Online BCA:- Chandigarh University, Amity Online University, Lovely Professional University, Amrita University, Manipal University etc."
+          title="Is Online BCA good for a career?"
+          content="Yes, Online BCA is completely approved by UGC and it is of equal value as a regular BCA degree. Moreover, there are a number of fields like cybersecurity, systems analysis, database management, programming, backend and frontend development etc. which graduates can venture into after completing this course. So the career scope is quite vast and bright."
           isActive={currentlyActive === 1}
           onClick={() => handleAccordionClick(1)}
         />
         <AccordionItem
-          title="What is the eligibility criterion for online BCA In India?"
-          content="You must have passed 10+2 with any stream and Maths as the compulsory subject."
+          title="What is the course duraiton of online General BCA"
+          content="The minimum course duration is 3 years and the maximum course duration is 6 years. There are 6 semesters in this program."
           isActive={currentlyActive === 2}
           onClick={() => handleAccordionClick(2)}
         />
         <AccordionItem
-          title="Is there any entrance examination for taking admission in online BCA degree programs in India?"
-          content="There is no entrance examination to get enrolled in online BCA. You just need a minimum percentage (45% to 50% aggregate marks depending on the university) in your intermediate examinations to get enrolled in online BCA."
+          title="What is the full fee for online BCA?"
+          content="The full course fee for an online general BCA varies from INR 30,000-INR 60,000 (for government universities) and INR 70,000-INR 2,00,000 (for private universities)."
           isActive={currentlyActive === 3}
           onClick={() => handleAccordionClick(3)}
         />
         <AccordionItem
-          title="What is the examination mode of semester examination of online BCA degree in India?"
-          content="The mode of examination depends from university to university. Some universities offer online examination mode while some have offline examination centres."
+          title="What is the minimum eligibility criteria for online BCA"
+          content="The eligibility criteria may differ from one university to another. Generally, the minimum eligibility criteria for a online BCA degree course is 45-55% marks in aggregate at 10+2 level (or equivalent) with Mathematics as a core subject."
           isActive={currentlyActive === 4}
           onClick={() => handleAccordionClick(4)}
         />
         <AccordionItem
-          title="Can I pursue an MCA after online BCA degree?"
-          content="Yes, one can pursue an MCA after a online BCA degree. One can opt for a regular MBA as well after getting a online BCA degree."
+          title="Will there be an entrance examination for admission to online BCA course?"
+          content="NO, there are no entrance examination for online BCA admission"
           isActive={currentlyActive === 5}
           onClick={() => handleAccordionClick(5)}
-        />
-        <AccordionItem
-          title="Is computer background required to take admission in online BCA course?"
-          content="There is no requirement of any computer background to pursue online BCA. Being from a computer background helps but it is not necessary."
-          isActive={currentlyActive === 6}
-          onClick={() => handleAccordionClick(6)}
-        />
-        <AccordionItem
-          title="Are online programs eligible for education loans?"
-          content="Yes, like regular programs one can also get an education loan for the online program."
-          isActive={currentlyActive === 7}
-          onClick={() => handleAccordionClick(7)}
-        />
-        <AccordionItem
-          title="Is the Online BCA program UGC/DEB approved?"
-          content="The University Grants Commission (UGC) or the Distance Education Bureau (DEB) should ideally approve online BCA programs to ensure they are legitimate and well-known. It's important to ensure the school and college are properly accredited."
-          isActive={currentlyActive === 8}
-          onClick={() => handleAccordionClick(8)}
-        />
-        <AccordionItem
-          title="If I plan to migrate abroad, will Online BCA be helpful/recognised?"
-          content="Getting an online BCA degree recognised in another country may depend on the country and the institution's rules on recognition. It is very important to find out if the place you want to go will accept an online degree."
-          isActive={currentlyActive === 9}
-          onClick={() => handleAccordionClick(9)}
-        />
-        <AccordionItem
-          title="Why should I choose the online BCA Program?"
-          content="It's easy to get to and flexible with online BCA classes so that you can mix your studies with other obligations. The classes are usually the same as college ones, so you can get a good degree while studying from anywhere."
-          isActive={currentlyActive === 10}
-          onClick={() => handleAccordionClick(10)}
-        />
-        <AccordionItem
-          title="What is the course duration for online BCA?"
-          content="Online BCA studies usually last 3 years, the same time as on-campus BCA programs. But some schools may offer different lengths of time."
-          isActive={currentlyActive === 11}
-          onClick={() => handleAccordionClick(11)}
-        />
-        <AccordionItem
-          title="Will the online BCA be recognised while applying for jobs?"
-          content="How well companies recognise online BCA degrees can depend on how well-known and accredited the school is. Many companies do accept online degrees, but it's still a good idea to ensure the program and school are legitimate."
-          isActive={currentlyActive === 12}
-          onClick={() => handleAccordionClick(12)}
-        />
-        <AccordionItem
-          title="Can online BCA degrees be recognised in all regions of Canada??"
-          content="Yes, Online BCA degrees are recognised in Canada, but it may depend on the area and the university. It's important to learn about the unique standards of each province and how Canadian universities handle recognition."
-          isActive={currentlyActive === 13}
-          onClick={() => handleAccordionClick(13)}
-        />
-        <AccordionItem
-          title="What jobs will I get after online BCA?"
-          content="When you finish your online BCA, you can work as a software developer, web developer, database administrator, network administrator, IT expert, or in other tech and computer-related jobs. Job chances rely on what you're good at and what you specialise in."
-          isActive={currentlyActive === 14}
-          onClick={() => handleAccordionClick(14)}
-        />
+        />          
       </div>
     </div>
     </Main>

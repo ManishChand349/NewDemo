@@ -50,7 +50,7 @@ export const OnlineBcaGeneral = () => {
               </div>
             </div>
             <p className="para first-para">
-            The online BCA program is valid as per the guidelines of the UGC-DEB and is of equal value as a regular BCA. It is a 3-year bachelor's degree program that offers best-in-class computer education with in-depth skills related to programming, database management, networking, and others. It is an undergraduate course that has been designed to provide practical knowledge of various aspects of computer applications. 
+            The online BCA program is valid as per the guidelines of the UGC-DEB and is of equal value as a regular BCA. It is a 3-year bachelor's degree program that offers best-in-class computer education with in-depth skills related to programming, database management, networking, and others. It is an undergraduate course that has been designed to provide practical knowledge of various aspects of computer applications.
             </p>
             <div>
               <div className="para-div-2">
@@ -127,7 +127,7 @@ export const OnlineBcaGeneral = () => {
             <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons" />
               <p>
-              Candidates who have completed their 10-2 or equivalent education from a recognised board can apply the program 
+              Candidates who have completed their 10-2 or equivalent education from a recognised board can apply the program
               </p>
             </div>
             <div className="para-div-3">
@@ -142,7 +142,7 @@ export const OnlineBcaGeneral = () => {
               The average fee range for this course ranges from INR 70,000 to INR 2,00,000 for private universities. Most government universities offering an online BCA have a fee range between INR 30,000 to INR 60,000.
               </p>
             </div>
-            
+
             {/* //Online BCA Course Subjects */}
             <div>
               <h1 className="second-heading">Subjects of online BCA Course</h1>
@@ -175,7 +175,7 @@ export const OnlineBcaGeneral = () => {
               <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons" />
               <p>
-            Computer Basice and PC Software Lap 
+            Computer Basice and PC Software Lap
               </p>
             </div>
               <div className="para-div-3">
@@ -297,7 +297,7 @@ export const OnlineBcaGeneral = () => {
               <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons" />
               <p>
-         Java Programming 
+         Java Programming
               </p>
             </div>
               <div className="para-div-3">
@@ -347,13 +347,13 @@ export const OnlineBcaGeneral = () => {
               <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons" />
               <p>
-        Business Communication 
+        Business Communication
               </p>
             </div>
               <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons" />
               <p>
-        Computer-Orented Numerical Techniques Lab 
+        Computer-Orented Numerical Techniques Lab
               </p>
             </div>
               <div className="para-div-3">
@@ -365,19 +365,19 @@ export const OnlineBcaGeneral = () => {
               <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons" />
               <p>
-        Computer-oriented numerical techniques 
+        Computer-oriented numerical techniques
               </p>
             </div>
               <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons" />
               <p>
-        Web programming  
+        Web programming
               </p>
             </div>
               <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons" />
               <p>
-       Introduction to Software Engineering   
+       Introduction to Software Engineering
               </p>
             </div>
               </div>
@@ -385,23 +385,23 @@ export const OnlineBcaGeneral = () => {
               <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons" />
               <p>
-        E-Commerce 
+        E-Commerce
               </p>
             </div>
               <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons" />
               <p>
-        Operatin System Concepts and Networking Management  
+        Operatin System Concepts and Networking Management
               </p>
             </div>
               <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons" />
               <p>
-        Project and Dissertation 
+        Project and Dissertation
               </p>
             </div>
               </div>
-            </div>      
+            </div>
             <h1 className="second-heading">Eligibility Criteria for Online BCA Course</h1>
             <p className="para-2">
              The basic eligibility criteria for pursuing a BCA degree are provided below:
@@ -428,19 +428,19 @@ export const OnlineBcaGeneral = () => {
             <p className="para-2">
              The minimum course duration for an online BCA is 3 years and it may extend up to a maximum period of 6 years. The course consists of 6 semesters which need to be completed in 3 years.
             </p>
-                               
-           
+
+
             <h1 className="second-heading Books-heading">
               Average Course Fee of online BCA
             </h1>
             <p className="para-2">
-            The average fee range for an online BCA varies as per the university you select. Most government universities have a fee range of INR 30,000 to INR 60,000. The average fee range for the full course varies in an online BCA is between INR 70,000 to INR 2,00,000. 
+            The average fee range for an online BCA varies as per the university you select. Most government universities have a fee range of INR 30,000 to INR 60,000. The average fee range for the full course varies in an online BCA is between INR 70,000 to INR 2,00,000.
             </p>
-            
+
             <p className="para-2">
-            Most universities have facilities for EMI mode of fee payment and some universities may provide financial aid through educational loans. 
+            Most universities have facilities for EMI mode of fee payment and some universities may provide financial aid through educational loans.
             </p>
-           
+
             <h1 className="second-heading Books-heading">
              Admission Procedure for Online BCA
             </h1>
@@ -474,53 +474,111 @@ export const OnlineBcaGeneral = () => {
             <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons " />
               <p className="para-3">
-              Attach the necessary documents (digital copies) for admission as mandated by the university. 
+              Attach the necessary documents (digital copies) for admission as mandated by the university.
               </p>
             </div>
             <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons " />
               <p className="para-3">
-              Pay the registration fee/application fee via the designated payment mode. 
+              Pay the registration fee/application fee via the designated payment mode.
               </p>
             </div>
             <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons " />
               <p className="para-3">
-              Submit your application, documents and fee. 
+              Submit your application, documents and fee.
               </p>
             </div>
             <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons " />
               <p className="para-3">
-              The university will screen your application and update the status of admission via email.  
+              The university will screen your application and update the status of admission via email.
               </p>
             </div>
             <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons " />
               <p className="para-3">
-              Once your admission to the course is confirmed by the university, pay the tuition fee to secure your seat in the course.  
+              Once your admission to the course is confirmed by the university, pay the tuition fee to secure your seat in the course.
               </p>
             </div>
-            
-               
+            <h1 className="second-heading">
+             Other Online BCA Course Specializations
+            </h1>
+            <div className="Top-Specializations-grid">
+              <div className="inner-div">
+                {" "}
+                <Link className="link-tag" to="">
+                  BCA Online In Multimedia and Animation
+                </Link>
+              </div>
+              <div className="inner-div">
+                {" "}
+                <Link className="link-tag" to="">
+                  BCA Online in Database Management System
+                </Link>
+              </div>
+              <div className="inner-div">
+                {" "}
+                <Link className="link-tag" to="">
+                  BCA Online in Data Science and Big Data Analytics
+                </Link>
+              </div>
+              <div className="inner-div">
+                {" "}
+                <Link className="link-tag" to="">
+                  BCA Online in Data Analytics
+                </Link>
+              </div>
+              <div className="inner-div">
+                {" "}
+                <Link className="link-tag" to="">
+                BCA Online in Al & ML
+                </Link>
+              </div>
+              <div className="inner-div">
+                {" "}
+                <Link className="link-tag" to="">
+                 BCA Online in Cloud and Security
+                </Link>
+              </div>
+              <div className="inner-div">
+                {" "}
+                <Link className="link-tag" to="">
+                 BCA Online in Cybersecurity
+                </Link>
+              </div>
+              <div className="inner-div">
+                {" "}
+                <Link className="link-tag" to="">
+                  BCA Online in Computer Science and IT
+                </Link>
+              </div>
+            </div>
+            <h1 className="second-heading Books-heading">Top Recruiters</h1>
+            <p className="para-2 last-para">
+            There are many career opportunities you can grab after completing the course of BCA as it is a technical and career-oriented program. With a general BCA, a student learns about the various domains of computer applications and hence their career opportunities are also vast. They can venture into top corporate firms, public sector jobs as well as IT jobs, all of which are fairly compensated.
+            </p>
+            <p className="para-2 last-para">
+           Some of the top career opportunities after completing an online BCA couse are:
+            </p>
             <div className="jop-grid">
               <div className="inner-div  inner-part-time">
                 {" "}
-                <p className="part-time-para Book-para">Software Developer</p>
+                <p className="part-time-para Book-para">Programmer</p>
               </div>
               <div className="inner-div  inner-part-time">
                 {" "}
-                <p className="part-time-para Book-para">Web Developer</p>
+                <p className="part-time-para Book-para">Backend Developer</p>
               </div>
               <div className="inner-div  inner-part-time">
                 {" "}
                 <p className="part-time-para Book-para">
-                  Database Administrator
+                  Software Tester
                 </p>
               </div>
               <div className="inner-div  inner-part-time">
                 {" "}
-                <p className="part-time-para Book-para">IT Consultant</p>
+                <p className="part-time-para Book-para">System Administrator</p>
               </div>
               <div className="inner-div  inner-part-time">
                 {" "}
@@ -528,41 +586,38 @@ export const OnlineBcaGeneral = () => {
               </div>
               <div className="inner-div  inner-part-time">
                 {" "}
-                <p className="part-time-para Book-para">Mobile App Developer</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  Network Administrator
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  Quality Assurance Analyst
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  Technical Support Specialist
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  E-commerce Specialist
-                </p>
+                <p className="part-time-para Book-para">System Inspection Officer</p>
               </div>
             </div>
-            <h1 className="second-heading Books-heading">Top Recruiters</h1>
-            <p className="para-2 last-para">
-              India's IT business has grown to over $250 billion. It is growing
-              by 7.7% every year. India is home to many IT parks, such as those
-              in Bangalore, Hyderabad, Pune, Noida, and Mumbai, all looking for
-              Online BCA grads. Here are some of the leading companies which are
-              actively hiring Online BCA graduates.
-            </p>
+            <h1 className="second-heading Books-heading">Top Hiring Firms</h1>
+            <div className="jop-grid">
+              <div className="inner-div  inner-part-time">
+                {" "}
+                <p className="part-time-para Book-para">Cognizant</p>
+              </div>
+              <div className="inner-div  inner-part-time">
+                {" "}
+                <p className="part-time-para Book-para">HCL</p>
+              </div>
+              <div className="inner-div  inner-part-time">
+                {" "}
+                <p className="part-time-para Book-para">
+                  IBM
+                </p>
+              </div>
+              <div className="inner-div  inner-part-time">
+                {" "}
+                <p className="part-time-para Book-para">Infosys</p>
+              </div>
+              <div className="inner-div  inner-part-time">
+                {" "}
+                <p className="part-time-para Book-para">TCS</p>
+              </div>
+              <div className="inner-div  inner-part-time">
+                {" "}
+                <p className="part-time-para Book-para">WIPRO</p>
+              </div>
+            </div>
           </div>
         </div>
         <div className="University-choose">
@@ -591,7 +646,7 @@ const Main = styled.div`
      padding: 0;
      margin: 0;
      font-family: poppins !important;
-     
+
     }
     p{
       font-size: 16px;
@@ -605,6 +660,7 @@ const Main = styled.div`
      max-width: 70%;
      margin: auto;
      padding-left: 200px;
+     
    }
   .bca-img{
      width: 350px;
@@ -675,7 +731,7 @@ const Main = styled.div`
    }
    .row-2{
     border: 1px solid #A5ABB0;
-    padding: 2px 24px;
+    padding: 70px 24px;
     margin-top: 50px;
     width: 81%;
     border-radius: 8px;
@@ -741,6 +797,7 @@ const Main = styled.div`
    .inner-div{
     padding: 10px;
     border: 1px solid;
+    padding-bottom: 10px;
    }
    .para-div-3{
     display: flex;
@@ -792,9 +849,10 @@ const Main = styled.div`
     display: grid;
     grid-template-columns: 50% 50%;
     margin-bottom: 15px;
-   }  
+    padding-bottom: 10px;
+   }
    .link-tag{
-    text-decoration: underline;
+    text-decoration: none;
     color: #0056d2;
    }
    .Ranking-heading{
@@ -886,7 +944,7 @@ const Main = styled.div`
 
 
    // for S mobile
-  
+
    @media (max-width : 1024px) {
      .bca-img {
     width: 387px;
@@ -984,7 +1042,7 @@ const Main = styled.div`
 }
 .para-2 {
   font-size: 0.9rem;
-  
+
 }
 .para-div-2 p{
   font-size: 0.9rem;
@@ -997,7 +1055,7 @@ const Main = styled.div`
 }
 .Book-para{
   font-size: 0.8rem !important;
-  
+
 }
 .part-time-para{
   /* font-size: 0.4rem !important; */
@@ -1098,7 +1156,7 @@ const Main = styled.div`
 }
 .para-2 {
   font-size: 0.7rem;
-  
+
 }
 .para-div-2 p{
   font-size: 0.7rem;
@@ -1111,7 +1169,7 @@ const Main = styled.div`
 }
 .Book-para{
   font-size: 0.6rem !important;
-  
+
 }
 .part-time-para{
   /* font-size: 0.4rem !important; */
@@ -1210,7 +1268,7 @@ const Main = styled.div`
 }
 .para-2 {
   font-size: 0.7rem;
-  
+
 }
 .para-div-2 p{
   font-size: 0.7rem;
@@ -1223,7 +1281,7 @@ const Main = styled.div`
 }
 .Book-para{
   font-size: 0.6rem !important;
-  
+
 }
 .part-time-para{
   /* font-size: 0.4rem !important; */
@@ -1321,7 +1379,7 @@ const Main = styled.div`
 }
 .para-2 {
   font-size: 0.7rem;
-  
+
 }
 .para-div-2 p{
   font-size: 0.7rem;
@@ -1334,7 +1392,7 @@ const Main = styled.div`
 }
 .Book-para{
   font-size: 0.6rem !important;
-  
+
 }
 .part-time-para{
   /* font-size: 0.4rem !important; */
@@ -1430,7 +1488,7 @@ const Main = styled.div`
 }
 .para-2 {
   font-size: 0.7rem;
-  
+
 }
 .para-div-2 p{
   font-size: 0.7rem;
@@ -1443,7 +1501,7 @@ const Main = styled.div`
 }
 .Book-para{
   font-size: 0.5rem !important;
-  
+
 }
 .part-time-para{
   font-size: 0.4rem !important;
