@@ -83,6 +83,7 @@ h1.title {
   color: #2f80ed;
   font-size: 2.1rem;
   font-weight: 700;
+  text-align: center;
 }
 
 .accordion-items {
