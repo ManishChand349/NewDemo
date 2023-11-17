@@ -347,1055 +347,162 @@ export const OnlineBcaGeneral = () => {
               <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons" />
               <p>
-        Network Programming and Administration
+        Business Communication 
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+        Computer-Orented Numerical Techniques Lab 
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+        Web Programming Lab
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+        Computer-oriented numerical techniques 
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+        Web programming  
+              </p>
+            </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+       Introduction to Software Engineering   
               </p>
             </div>
               </div>
+              <div className="inner-div">
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+        E-Commerce 
+              </p>
             </div>
-
-
-
-
-
-            <h1 className="second-heading">
-              Top Specializations in Online BCA
-            </h1>
-            <p className="para-2 ">
-              When students enroll in an online BCA Program, they can often pick
-              from several specialisation that fit their hobbies and job goals.
-              Here are a few of the <a href="">best BCA specialisation:</a>
-            </p>
-            <div className="Top-Specializations-grid">
-              <div className="inner-div">
-                {" "}
-                <Link className="link-tag" to="">
-                  BCA Online In Computer Science
-                </Link>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <Link className="link-tag" to="">
-                  BCA Online In Data Analytics
-                </Link>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <Link className="link-tag" to="">
-                  BCA Online In Cyber Security
-                </Link>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <Link className="link-tag" to="">
-                  BCA Online In Database Management
-                </Link>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <Link className="link-tag" to="">
-                  BCA Online In cloud Security
-                </Link>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <Link className="link-tag" to="">
-                  BCA Online In Artficial Intelligence and Machine Learning
-                </Link>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <Link className="link-tag" to="">
-                  BCA Online In Multimedia and Animation
-                </Link>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <Link className="link-tag" to="">
-                  BCA Online In Data Science and Big Data
-                </Link>
-              </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+        Operatin System Concepts and Networking Management  
+              </p>
             </div>
-            <h1 className="second-heading">
-              Top Specializations in Online BCA
-            </h1>
-            <p className="para-2 ">
-              Besides Online BCA Programs, there are different kinds of BCA
-              programs for students with different learning styles and ways of
-              life:
-            </p>
-            <p className="para-4">
-              {" "}
-              <span className="highlight">
-                1. Regular on-Campus BCA program:
-              </span>{" "}
-              Regular on-campus BCA programs offer a standard and in-depth way
-              to learn. Students attend classes in real classrooms on university
-              or college grounds and interact directly with teachers and other
-              students. This program lets students meet in person, which can be
-              helpful for in-depth talks, group projects, and quick access to
-              educational resources like labs and libraries. It also helps
-              students feel like they are part of the university community by
-              letting them participate in events and activities outside of
-              class. This method provides an organised and guided education, but
-              students may need to be on campus all the time, which can be hard
-              for those who have other obligations or need help getting to
-              college.
-            </p>
-            <p className="Ranking-heading">
-              {" "}
-              <span className="highlight">
-                Top Universities for BCA As Per NIRF Ranking 2023
-              </span>
-            </p>
-            <p className="para-2">
-              Here is a list of the top best universities in India as per the
-              NIRF Ranking 2023
-            </p>
-            <div className="Top-Universities-grid">
-              <div className="inner-div">
-                {" "}
-                <p className="center">
-                  {" "}
-                  <strong className="center">Universities/Institution</strong>
-                </p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">
-                  <strong>NIRF 2023 Ranking in University Category</strong>
-                </p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">Indian Institute of Science</p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">1</p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">Jawaharlal Nehru University</p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">2</p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">Jamia Millia Islamia</p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">3</p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">Jadavpur University</p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">4</p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">Banaras Hindu University</p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">5</p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">
-                  Manipal Academy Of Higher Education-Manipal
-                </p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">6</p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">Amrita Vishwa Vidyapeetham</p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">7</p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">Vellore Institute of Technology</p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">8</p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">Aligarh Muslim University</p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">9</p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">University of Hyderabad</p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">10</p>
-              </div>
+              <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons" />
+              <p>
+        Project and Dissertation 
+              </p>
             </div>
+              </div>
+            </div>      
+            <h1 className="second-heading">Eligibility Criteria for Online BCA Course</h1>
             <p className="para-2">
-              {" "}
-              <span className="highlight">2. Distance BCA:</span> Students who
-              need more flexible schedules can use{" "}
-              <a className="link-tag" href="">
-                distance BCA programs
-              </a>
-              . These programs use various distance learning methods, such as
-              written study guides, online tools, and tutoring from afar. Apart
-              from online classes, you must attend university to take your
-              exams. Students can access course materials from home or anywhere
-              else with an internet connection. This freedom will benefit people
-              balancing work, family, or other obligations while getting their
-              BCA degree. Distance BCA programs are especially helpful for
-              people who may need help to easily go to school on campus because
-              of where they live. However, self-discipline and time management
-              are very important for doing well in online learning.
-            </p>
-            <p className="para-2">
-              {" "}
-              <span className="highlight">3. Part Time BCA:</span> Part time BCA
-              programs are designed for people with full-time jobs or
-              responsibilities. Because these programs offer evening or weekend
-              classes, students can keep their jobs and improve their skills
-              simultaneously.{" "}
-              <a className="link-tag" href="">
-                Part time BCA
-              </a>
-              . students can interact with teachers and classmates during class
-              time, which can help them make connections and work together to
-              learn. One good thing about part-time classes is that they give
-              you the freedom to get your BCA while still working. It is
-              important to remember that part-time BCA programs may take longer
-              to finish than full-time ones because they usually have lighter
-              course loads to suit students who work full-time jobs. The table
-              below enlists the key differences between a regular, distance,
-              online and part time BCA.
-            </p>
-            <p className="para-2">
-              The table below enlists the key difference between a regular,
-              distance, online and part time BCA:
-            </p>
-            <div className="part-time-BCA">
-              <div className="inner-div">
-                {" "}
-                <p className="center">
-                  {" "}
-                  <strong className="center">Aspect</strong>
-                </p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">
-                  {" "}
-                  <strong className="center">Regular BCA</strong>
-                </p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">
-                  {" "}
-                  <strong className="center">Distance BCA</strong>
-                </p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">
-                  {" "}
-                  <strong className="center">Online BCA</strong>
-                </p>
-              </div>
-              <div className="inner-div">
-                {" "}
-                <p className="center">
-                  {" "}
-                  <strong className="center">Part-Time-BCA</strong>
-                </p>
-              </div>
-              <div className="inner-div inner-part-time ">
-                {" "}
-                <p className=" part-time-para">
-                  {" "}
-                  Learning <br /> Environment
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  On-Campus classes with in-person interactions
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  Mostly remote with occasinal in-person session
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  Entirely online <br /> with virtual <br /> interactions
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  On-campus or virtual part-time schedule
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  Classroom <br /> Attendance
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  Mandatory in- <br /> person Attendance
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  No mandatory in- <br /> person classes
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  No in-person <br /> classes, Entirely <br /> virtual
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  part-time, with some <br /> in-person sessions
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para"> Flexibility</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  Limited flexibility, <br /> fixed class schedules
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  High flexibility, self-paced learning
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  Maximum flexibility, study at your own pace
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  Moderate flexibility with evening/weekend <br /> classes
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para"> Interaction with Peers</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  Extensive face-to-face interaction
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  Limited in-person interactions
-                </p>
-              </div>
-
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  Virtual access to digital resources
-                </p>
-              </div>
-
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  In-person and virtual interactions
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para"> Access to Campus Resources</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  Full access to libraries, labs, and campus facilities
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  Limited access, often remote resources
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  Virtual access to digital resources
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  {" "}
-                  Partial access to campus facilitiess
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para"> Learning Materials</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Printed textbooks, physical resources
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Printed and online materials, occasional workshops
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Online materials, digital resources
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Varied, including printed and online
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">Tutor/Instructor Support</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  In-person support from professors
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Remote tutor support and occasional in-person sessions
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Virtual support from instructors
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">In-person and virtual support</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">Schedule Duration</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Typically 3 years of full-time study
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Variable, depending on self-paced progress
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Variable, often flexible for working professionals
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Longer duration due to part-time schedule
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Suitable for Working Professionals
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Less suitable due to full-time commitment
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Highly suitable, as it accommodates work schedules
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Ideal for working professionals, flexible schedule
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Designed specifically for working individuals
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">Geographical Accessibility</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Limited to students living near the campusy
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Accessible to students across different locations
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Accessible to students worldwide
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Depending on the institution's location
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">Time Management Skills</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Requires effective time management
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Demands strong self-discipline and time managementt
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Necessitates self-motivation and time management
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para">
-                  Requires good time management for work-study balance
-                </p>
-              </div>
-            </div>
-            <h1 className="second-heading">Online BCA Eligibility</h1>
-            <p className="para-2">
-              Depending on the university that offers the program, na online BCA
-              program's eligibiliy requirements and duration can differ. But
-              there are same things that students usually need to do before they
-              can enroll:
+             The basic eligibility criteria for pursuing a BCA degree are provided below:
             </p>
             <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons " />
               <p className="para-3">
-                Applicants must have finished their 10+2 eduction from a
-                recognized board or a similar test.{" "}
+                Students must have passed 10+2 or equivalent level of education from a recognized board of schooling.
               </p>
             </div>
             <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons " />
               <p className="para-3">
-                Most school expect students to have gotten at least a certain
-                number of marks on their 10+2 exams, usually at least 50%.
+                Some universities require the candidates to have studied Mathematics as one one of the subject at the 10+2 level.
               </p>
             </div>
             <div className="para-div-3">
               <BsFillCheckSquareFill className="second-icons " />
               <p className="para-3">
-                There may not be strict subject requirements, but knowing math
-                and computer science can be helpful.
-              </p>
-            </div>
-            <div className="para-div-3">
-              <BsFillCheckSquareFill className="second-icons icon-4" />
-              <p className="para-3">
-                Since the program is taught in English, it is generally assumed
-                that you know a certain amount of that language. Some school
-                might want you to take a test to see how well you speak English.
+                A minimum of 45%-55% aggregate marks in the qualifying examination is required for admission by some universities
               </p>
             </div>
             <h1 className="second-heading">Online BCA Duration</h1>
             <p className="para-2">
-              Most online BCA programs take about 3 to 4 years to finish. This
-              time is broken into six semesters, each about six months long. The
-              program's framework is set up so that the courses and topics are
-              spread evenly over the three years. This way, students can slowly
-              build their knowledge and skills in computer applications.
+             The minimum course duration for an online BCA is 3 years and it may extend up to a maximum period of 6 years. The course consists of 6 semesters which need to be completed in 3 years.
             </p>
-            <h1 className="second-heading">Skills Required for online BCA</h1>
+                               
+           
+            <h1 className="second-heading Books-heading">
+              Average Course Fee of online BCA
+            </h1>
             <p className="para-2">
-              You must have certain skills and traits to do well in an online
-              BCA program. Here are some important skills you need to be
-              successfull:
+            The average fee range for an online BCA varies as per the university you select. Most government universities have a fee range of INR 30,000 to INR 60,000. The average fee range for the full course varies in an online BCA is between INR 70,000 to INR 2,00,000. 
+            </p>
+            
+            <p className="para-2">
+            Most universities have facilities for EMI mode of fee payment and some universities may provide financial aid through educational loans. 
+            </p>
+           
+            <h1 className="second-heading Books-heading">
+             Admission Procedure for Online BCA
+            </h1>
+            <p className="para-2">
+              The admission procedure for online universities is completed virtually A basic guidelines for seeking admission in an online BCA course is provided here.
             </p>
             <div className="para-div-3">
-              <BsFillCheckSquareFill className="second-icons icon-4" />
+              <BsFillCheckSquareFill className="second-icons " />
               <p className="para-3">
-                <strong>Self-motivation and Discipline: </strong>
-                To stay focused on your schoolwork, meet deadlines, and handle
-                your study plan while studying, you must be self-motivated and
-                disciplined.
-              </p>
-            </div>
-            <div className="para-div-3">
-              <BsFillCheckSquareFill className="second-icons icon-5" />
-              <p className="para-3">
-                <strong>Effective Time Management: </strong>
-                You must manage your time well to balance schoolwork with other
-                obligations and ensure enough time for learning and tasks.
+                Visit the official university website where you wish to pursure the course from.
               </p>
             </div>
             <div className="para-div-3">
-              <BsFillCheckSquareFill className="second-icons icon-4" />
+              <BsFillCheckSquareFill className="second-icons " />
               <p className="para-3">
-                <strong>Digital Literacy and Adaptability: </strong>
-                You must know how to use digital platforms, tools, and apps
-                well. It's important to adapt and learn new tools in the tech
-                business, which changes quickly.
+               Check and confirm the eligibility criteria of the course before applying
               </p>
             </div>
             <div className="para-div-3">
-              <BsFillCheckSquareFill className="second-icons icon-6" />
+              <BsFillCheckSquareFill className="second-icons " />
               <p className="para-3">
-                <strong>Critical Thinking and Problem-handling: </strong>A lot
-                of the work in online BCA classes is handling hard problems.
-                Being able to think critically helps you understand and solve
-                complex problems well.
+              Then, register yourseft on the website of the universities as a new user.
               </p>
             </div>
             <div className="para-div-3">
-              <BsFillCheckSquareFill className="second-icons icon-4" />
+              <BsFillCheckSquareFill className="second-icons " />
               <p className="para-3">
-                <strong>Communication and Teamwork: </strong>
-                You must communicate clearly both orally and in writing to
-                participate in online talks, ask for help, and work well with
-                others on group tasks.
+             Login to the website with your credentials and fill the application form for admission.
               </p>
             </div>
-            <h1 className="second-heading">BCA Entrance Exams 2023</h1>
-            <p className="para-2">
-              The followaing is a list of some of the most prevalent admission
-              examinations for BCA degrees in India:
-            </p>
-
-            <div className="BCA-exams-grid">
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  DU JAT (Delhi University Joint Admission Test)
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  IPU CET (Indraprastha University Common Entrance Test)
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  CUET (Commmon University Entrance Test)
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  SET (Symbiosis Entrance Test)
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  NPAT (NMIMS Programs After Twelfth)
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  UGAT (Under Graduate Apitiude Test)
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  DU JAT (Delhi University Joint Admission Test)
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  SET (Symbiosis Entrance Test)
-                </p>
-              </div>
-            </div>
-            <div className="inner-div  ">
-              {" "}
-              <p className="center Book-para">
-                IPU CET (Indraprastha University Common Entrance Test)
+            <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons " />
+              <p className="para-3">
+              Attach the necessary documents (digital copies) for admission as mandated by the university. 
               </p>
             </div>
-            <h1 className="second-heading Books-heading">Recommended Books:</h1>
-            <div className="Books-grid">
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  <strong>Book Title</strong>
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  <strong>Subject</strong>
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  <strong>Author Name</strong>
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  Database Management Systems
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">Database Management</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">Raghu Ramakrishnan</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  Introduction to the Theory of Computation
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  Theory of Computation
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">Michael Sipser</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  Data Structures and Algorithm Analysis in C++
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  Data Structures and Algorithms
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">Mark A. Weiss</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  Operating System Concepts
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">Operating Systems</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">Abraham Silberschatz</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">Computer Network</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">Computer Network</p>
-              </div>
-
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">Andrew S.Tanenbaum</p>
-              </div>
-
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  Software Engineering: A Practitioner's Approach
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">Software Engineering</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">Roger S.pressman</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  Artificial Intelligence: A Modern Approach
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  Artificial Intelligence
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  Stuart Russell and peter Norvig
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  Web Technologies: HTML, CSS JavaScript, and XML
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">Web Development</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">Jeffrey C.Jackson</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">Programming in Java</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">Java Programming</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">E.Balagurusamy</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  Introduction to Computer Graphics and the Vulkan API
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">Computer Graphics</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">Kenwright</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">
-                  Cryptography and NetWork Security: Principles and Practice
-                </p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">Network Security</p>
-              </div>
-              <div className="inner-div  inner-part-time">
-                {" "}
-                <p className="part-time-para Book-para">William Stallings</p>
-              </div>
+            <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons " />
+              <p className="para-3">
+              Pay the registration fee/application fee via the designated payment mode. 
+              </p>
             </div>
-            <h1 className="second-heading Books-heading">
-              Online BCA Academic Fees
-            </h1>
-            <p className="para-2">
-              Fees for the online BCA Program usually cost between 50,000 INR
-              and 2 lakhs INR. The university name causes this difference, the
-              program's length, how complete the education is, and what other
-              support services are offered. The low cost of these programs and
-              the fact that they can be done online make them a good choice for
-              people who want to get a good education in computer applications.
-            </p>
-            <h1 className="second-heading Books-heading">
-              Online BCA Admission Procedure
-            </h1>
-            <p className="para-2">
-              Several steps in the admissions process for online BCA schools
-              make registration easy and quick. Applicants must complete their
-              forms online and include important personal and academic details.
-              Depending on the school, candidates might have to take an entrance
-              test to see how good they are at computer science. Also,
-              applicants might have to send their college records, proof of
-              identity, and English language proficiency test marks. Some
-              applicants who made the shortlist might be asked to see how
-              motivated they are and if they are a good fit for the program.
-              Once a student is accepted, they get an offer letter with
-              information about the school and how to pay the fees. This
-              simplified process makes it easy for people who want to learn to
-              start their online BCA path and learn more about the world of
-              technology.
-            </p>
-            <img className="education-img" src={AdmissionProcedure} alt="" />
-            <h1 className="second-heading Books-heading">
-              Why Opt for an Education Loan for an Online BCA?
-            </h1>
-            <p className="para-2">
-              A student loan can be used to pay for an Online BCA program. Like
-              any other course, this can be paid for with a student loan. The
-              minimum requirements for getting a student loan for the BCA school
-              are the same as for the other classes. That is, the person must
-              live in India and be between the ages of 18 and 35. They must also
-              have a letter of acceptance from a recognised university. If you
-              meet all these requirements, you can apply for an education loan
-              for any school, whether online or offline.
-            </p>
-            <h1 className="second-heading Books-heading">
-              Is Online BCA Worth It?
-            </h1>
-            <p className="para-2">
-              Pursuing an Online BCA is a good idea in the digital age as it
-              offers many benefits, freedom and convenience that can't be found
-              anywhere else. The program lets people fit their learning around
-              other things they must do, like work, family, or personal
-              interests. This makes education available to more people.
-            </p>
-            <p className="para-2">
-              The courses in the online BCA program cover a lot of ground, are
-              up-to-date, and are based on interactive learning, which disproves
-              the idea that online learning is done alone. Students interact
-              with teachers and classmates worldwide through virtual classrooms,
-              conversation forums, and group projects. This creates a learning
-              atmosphere that is diverse and rich. Another important benefit is
-              that it saves money. Tuition for online BCA is often less than for
-              standard on-campus programs. They are also attractive because they
-              save money on transportation and moving costs.
-            </p>
-            <img className="education-img" src={CVCourseBcaSalary} alt="" />
-            <p className="para-2">
-              {" "}
-              <strong>Source:</strong>{" "}
-              <span className="blue-para">Payscale</span>{" "}
-            </p>
-            <p className="para-2">
-              To sum up, choosing to go to an online BCA school is a smart move.
-              In an age ruled by technological progress, its importance is shown
-              by its flexibility, strong curriculum, interactive learning,
-              industry alignment, global networking, technological skills, and
-              job possibilities. It's an investment that adds to your skills and
-              puts you at the center of a technology-driven future.
-            </p>
-            <img
-              className="education-img"
-              src={CVCourseBcaSalaryGraph}
-              alt=""
-            />
-            <h1 className="second-heading Books-heading">
-              Job Opportunities For Online BCA Degree
-            </h1>
-            <p className="para-2">
-              Graduates of online BCA programs have plenty of job possibilities,
-              and most companies recognize the skills they've learned. The
-              program's full coursework prepares people for jobs in software
-              creation, web design, IT consulting, and other fields. Employers
-              like the real skills and flexibility graduates show through online
-              learning, making them very competitive in the job market. Here are
-              some job prospects after Online BCA.
-            </p>
+            <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons " />
+              <p className="para-3">
+              Submit your application, documents and fee. 
+              </p>
+            </div>
+            <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons " />
+              <p className="para-3">
+              The university will screen your application and update the status of admission via email.  
+              </p>
+            </div>
+            <div className="para-div-3">
+              <BsFillCheckSquareFill className="second-icons " />
+              <p className="para-3">
+              Once your admission to the course is confirmed by the university, pay the tuition fee to secure your seat in the course.  
+              </p>
+            </div>
+            
+               
             <div className="jop-grid">
               <div className="inner-div  inner-part-time">
                 {" "}
